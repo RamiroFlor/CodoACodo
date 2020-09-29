@@ -1,0 +1,25 @@
+header{
+	width: 960px;
+	height: 70px;
+	background-color: #c8f495;
+	margin-left: auto;   /*distancia del borde de la pag a la pantalla*/
+	margin-right: auto;
+}
+
+#contenido_principal{
+	width: 960px;
+	height: 800px;
+	background-color: #24bf69;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;  /*separacion del header*/
+	margin-bottom: 10px;  /*separacion del footer*/
+}
+
+footer{
+	width: 960px;
+	height: 180px; 
+	background-color: #4ca6d5;
+	margin-left: auto;
+	margin-right: auto;
+}
